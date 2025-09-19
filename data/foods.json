@@ -1,0 +1,1830 @@
+{
+  "yuexiu": [
+    {
+      "id": 1,
+      "name": "北园酒家",
+      "type": "粤菜/早茶",
+      "description": "创建于1938年的老字号园林酒家，以精美点心和传统粤菜闻名，园林式设计环境典雅，是体验正宗广府早茶文化的经典选择。",
+      "location": "越秀区小北路200-202号",
+      "rating": 4.6,
+      "price": "人均150-280元",
+      "hours": "周末早茶 09:00-10:45; 午 11:00-14:30",
+      "phone": "020-83563365",
+      "specialties": [
+        "虾饺皇",
+        "牛肉球", 
+        "糯米鸡",
+        "马蹄糕",
+        "叉烧包"
+      ],
+      "mainImage": "https://miaobi-lite.bj.bcebos.com/miaobi/5mao/b%27LV8xNzMxNjQ4ODI3LjIzMDY4MDVfMTczMTY0ODgyOC4zNzI1ODY3%27/1.png",
+      "gallery": [
+        "https://img0.baidu.com/it/u=1772251240,1107106826&fm=253&app=138&f=JPEG?w=500&h=653",
+        "https://img2.baidu.com/it/u=2097072178,2518539379&fm=253&app=138&f=JPEG?w=686&h=500",
+        "https://img0.baidu.com/it/u=614572016,2551132559&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://img1.baidu.com/it/u=478299158,3973396766&fm=253&app=138&f=JPEG?w=800&h=800",
+        "https://img1.baidu.com/it/u=1525481980,4128441560&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img0.baidu.com/it/u=1665419072,792968123&fm=253&fmt=auto&app=138&f=JPEG?w=498&h=332",
+        "https://img0.baidu.com/it/u=403237848,4260538454&fm=253&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "北园酒家 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "点都德（流花展贸中心）",
+      "type": "早茶/点心",
+      "description": "现代连锁茶楼品牌，以精致点心和标准化服务著称，环境明亮整洁，适合家庭聚餐和商务早茶。",
+      "location": "越秀区流花路115-117号流花展贸中心3楼",
+      "rating": 4.4,
+      "price": "人均70-90元",
+      "hours": "早 08:00-16:00、晚 17:00-21:00",
+      "phone": "020-83700581",
+      "specialties": [
+        "虾饺",
+        "拉肠", 
+        "蛋挞",
+        "流沙包",
+        "凤爪"
+      ],
+      "mainImage": "https://qcloud.dpfile.com/pc/J1B6QFOp2tfOL6bUPlaQtvmhXPuKrlIG9WFfC6MpifYRFirG3GtTlRa7vWuh_r0KY0q73sB2DyQcgmKUxZFQtw.jpg",
+      "gallery": [
+        "https://img1.baidu.com/it/u=2712457883,681216880&fm=253&app=138&f=JPEG?w=500&h=666",
+        "https://img1.baidu.com/it/u=3550589460,3451271443&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://img0.baidu.com/it/u=430410053,4143232283&fm=253&app=120&f=JPEG?w=500&h=667",
+        "https://img0.baidu.com/it/u=3189809531,522578658&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667",
+        "https://img0.baidu.com/it/u=588656054,2913832125&fm=253&app=138&f=JPEG?w=500&h=500",
+        "https://img1.baidu.com/it/u=3472119403,3827222444&fm=253&app=138&f=JPEG?w=1099&h=500"
+      ],
+      "detailedInfo": {
+        "history": "点都德（流花展贸中心） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "泰安门 Taian Table",
+      "type": "创意料理/米其林二星",
+      "description": "广州唯一米其林二星西餐厅，主厨Stefan Stiller，采用开放式厨房设计，每6-8周更新菜单，提供沉浸式fine dining体验。",
+      "location": "越秀区环市东路368号花园酒店2层",
+      "rating": 4.8,
+      "price": "8道菜1488元+10%服务费",
+      "hours": "17:30/18:00-22:30（仅晚餐，周二-周六）",
+      "phone": "+86 18565238265",
+      "specialties": [
+        "海胆配酸面包",
+        "金枪鱼大腹塔塔",
+        "大西洋龙虾",
+        "烟熏鳗鱼",
+        "时令创意菜单"
+      ],
+      "mainImage": "https://img1.baidu.com/it/u=1705838719,3259920891&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "gallery": [
+        "https://img1.baidu.com/it/u=1842465091,2900028967&fm=253&app=138&f=JPEG?w=500&h=625",
+        "https://img1.baidu.com/it/u=378643997,3844780799&fm=253&app=138&f=JPEG?w=500&h=625",
+        "https://img1.baidu.com/it/u=746383257,367066202&fm=253&app=138&f=JPEG?w=500&h=625",
+        "https://img1.baidu.com/it/u=2622749104,1192786610&fm=253&app=138&f=JPEG?w=500&h=625",
+        "https://img2.baidu.com/it/u=2685922266,970822255&fm=253&app=138&f=JPEG?w=500&h=625",
+        "https://img2.baidu.com/it/u=4252915682,1122209626&fm=253&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "泰安门 Taian Table 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "利苑酒家（越秀）",
+      "type": "粤菜/点心",
+      "description": "香港知名连锁粤菜品牌，米其林一星餐厅，以高品质点心和精致粤菜著称。",
+      "location": "越秀区建设六马路33号怡安大厦4层",
+      "rating": 4.5,
+      "price": "人均230元",
+      "hours": "11:30-21:00",
+      "phone": "暂无",
+      "specialties": [
+        "乳鸽",
+        "老火汤",
+        "豆豉蒸凤爪",
+        "银萝千层酥",
+        "烧腩仔"
+      ],
+      "mainImage": "https://img0.baidu.com/it/u=3437053882,321306142&fm=253&fmt=auto&app=138&f=JPEG?w=718&h=500",
+      "gallery": [
+        "https://img2.baidu.com/it/u=3435454551,1313224670&fm=253&app=138&f=JPEG?w=514&h=500",
+        "https://img0.baidu.com/it/u=3659706406,2664275360&fm=253&app=138&f=JPEG?w=514&h=500",
+        "https://sns-img-hw.xhscdn.com/1000g0081rl489rof600g5nu4dfv08bv644p5jt8?imageView2/2/h/1080/format/webp",
+        "https://img1.baidu.com/it/u=867198561,1365612925&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://sns-img-hw.xhscdn.com/1000g0081rl489rof602g5nu4dfv08bv6nms9sco?imageView2/2/w/1080/format/webp",
+        "https://img1.baidu.com/it/u=3514485469,812649322&fm=253&app=138&f=JPEG?w=1067&h=800"
+      ],
+      "detailedInfo": {
+        "history": "利苑酒家（越秀） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "四季厅（中国大酒店）",
+      "type": "粤菜/自助/宴会",
+      "description": "五星级酒店内的粤菜餐厅，环境高雅，服务专业，适合商务宴请和特殊场合用餐。",
+      "location": "越秀区流花路122号中国大酒店内",
+      "rating": 4.4,
+      "price": "中高端粤菜",
+      "hours": "早餐 08:00–11:00；午 11:00–14:30；晚 18:00–22:00（酒店官网）",
+      "phone": "暂无",
+      "specialties": [
+        "经典点心",
+        "非遗叉烧酥",
+        "季节粤菜"
+      ],
+      "mainImage": "https://img2.baidu.com/it/u=323111542,3330275271&fm=253&app=138&f=JPEG?w=500&h=667",
+      "gallery": [
+        "https://img2.baidu.com/it/u=1387394784,3924656824&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img1.baidu.com/it/u=1185756648,2422288739&fm=253&app=138&f=JPEG?w=500&h=544",
+        "https://miaobi-lite.bj.bcebos.com/miaobi/5mao/b%2757Kk6I%2Bc5Zu95a605aSn5biIXzE3MzQ3MTcxNjEuMjE4Mzc4OF8xNzM0NzE3MTYyLjAyOTUwMDJfMTczNDcxNzE2Mi43MTc2MDc3%27/2.png",
+        "https://img0.baidu.com/it/u=1876348282,364728966&fm=253&app=138&f=JPEG?w=500&h=579",
+        "https://img2.baidu.com/it/u=539490831,970232071&fm=253&app=138&f=JPEG?w=667&h=500"
+      ],
+      "detailedInfo": {
+        "history": "四季厅（中国大酒店） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "新泰乐",
+      "type": "粤菜/点心",
+      "description": "越秀区人气餐厅，主打粤菜/点心，口碑稳定。",
+      "location": "越秀区",
+      "rating": 4.4,
+      "price": "中档",
+      "hours": "10:30–14:30，17:00–22:00",
+      "phone": "暂无",
+      "specialties": [
+        "金奖黄鳝饭",
+        "鳝鱼煲",
+        "叉烧",
+        "鹅肠"
+      ],
+      "mainImage": "https://youimg1.c-ctrip.com/target/10080e000000749uhA6FA.jpg",
+      "gallery": [
+        "https://gips2.baidu.com/it/u=1615459011,1958378586&fm=3074&app=3074&f=JPEG",
+        "https://img2.baidu.com/it/u=3385369970,2145432278&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://qcloud.dpfile.com/pc/UuQZGhGErLYtyWohXcxz0ImPoTduyIjN6dr0AYKjVW7PYW0oAAFZXQA-paWkDCCMY0q73sB2DyQcgmKUxZFQtw.jpg",
+        "https://qcloud.dpfile.com/pc/Q9rKQfgNpgTe60MURE4zNGwcu2yoTROCI5l2DyjwomxabRck_eWRFO7xrEMzPShBY0q73sB2DyQcgmKUxZFQtw.jpg"
+      ],
+      "detailedInfo": {
+        "history": "新泰乐 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "广州酒家（越秀店）",
+      "type": "粤菜/早茶",
+      "description": "越秀区人气餐厅，主打粤菜/早茶，口碑稳定。",
+      "location": "越秀区北京路附近",
+      "rating": 4.3,
+      "price": "常见广府茶市与粤菜菜价",
+      "hours": "07:00–22:00（早茶最旺）",
+      "phone": "暂无",
+      "specialties": [
+        "文昌鸡",
+        "乳鸽",
+        "肠粉",
+        "流沙包",
+        "脆皮乳猪"
+      ],
+      "mainImage": "https://gips3.baidu.com/it/u=2732382399,1367869998&fm=3074&app=3074&f=JPEG?w=1080&h=1410&type=normal&func=",
+      "gallery": [
+        "https://img2.baidu.com/it/u=268885788,2733413423&fm=253&app=138&f=JPEG?w=686&h=500",
+        "https://gips0.baidu.com/it/u=579208006,1179017661&fm=3074&app=3074&f=JPEG?w=1229&h=1229&type=normal&func=C",
+        "https://img1.baidu.com/it/u=1811855834,2421025818&fm=253&app=138&f=JPEG?w=686&h=500",
+        "https://img0.baidu.com/it/u=3992029869,2035490490&fm=253&app=138&f=JPEG?w=500&h=653",
+        "https://miaobi-lite.bj.bcebos.com/miaobi/5mao/b%275bm/5bee6YWS5a625pyJ5LuA5LmI5aW95ZCD55qEXzE3MjY4NTM2ODcuMjUyMjY1XzE3MjY4NTM2ODcuODk4MzM4M18xNzI2ODUzNjg4LjYzODIwMg%3D%3D%27/2.png"
+      ],
+      "detailedInfo": {
+        "history": "广州酒家（越秀店） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "回民饭店",
+      "type": "回族料理",
+      "description": "越秀区人气餐厅，主打回族料理，口碑稳定。",
+      "location": "中山六路",
+      "rating": 4.4,
+      "price": "人均50",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "蒸牛肉丸",
+        "牛杂汤",
+        "牛肉窝烧饼"
+      ],
+      "mainImage": "https://qcloud.dpfile.com/pc/lqeHFFsuQhyohqmnMR798jnSEbNEfe9SxnE0PhnlRW3uTEUwe6AXdZIGa6qWVvsc.jpg",
+      "gallery": [
+        "https://qcloud.dpfile.com/pc/mxBfoRo8peUEDYF42E5Dmdls4CDw6nN8RWvcWkC4eF3ChLLd2xH9HfqaUw41LpAhNZvK3RMEnSZusP-oHmeixOpEuctC7NDQ04iV_zcg7BUYPeq-iX-oD-RLc_uA0GHhp6cjSpPcu-UE8TQHZIi94A.jpg",
+        "https://img2.baidu.com/it/u=4072306071,3310657786&fm=253&app=138&f=JPEG?w=869&h=500",
+        "https://img2.baidu.com/it/u=904707640,812614897&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://qcloud.dpfile.com/pc/G_8W4q9J3ydLb8tAGYBCSmz6B347Zu6HO78dhX-zDfKBPpFkhyb3NSoryn05g3JpNZvK3RMEnSZusP-oHmeixOpEuctC7NDQ04iV_zcg7BUYPeq-iX-oD-RLc_uA0GHhp6cjSpPcu-UE8TQHZIi94A.jpg"
+      ],
+      "detailedInfo": {
+        "history": "回民饭店 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "信行丰炖品皇",
+      "type": "汤品",
+      "description": "越秀区人气餐厅，主打汤品，口碑稳定。",
+      "location": "光孝路",
+      "rating": 4.4,
+      "price": "街坊价",
+      "hours": "常见 11:00–14:30；17:00–22:00",
+      "phone": "暂无",
+      "specialties": [
+        "各式炖汤",
+        "老火汤/炖品"
+      ],
+      "mainImage": "https://img1.baidu.com/it/u=3524710905,1741644640&fm=253&app=138&f=JPEG?w=500&h=886",
+      "gallery": [
+        "https://img1.baidu.com/it/u=3070137896,3823678228&fm=253&app=138&f=JPEG?w=500&h=886",
+        "https://img2.baidu.com/it/u=1901455078,3644455422&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img0.baidu.com/it/u=329832844,2548869411&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=666",
+        "https://img2.baidu.com/it/u=268968621,3418134092&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=800"
+      ],
+      "detailedInfo": {
+        "history": "信行丰炖品皇 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "惠爱餐厅",
+      "type": "家常价",
+      "description": "越秀区人气餐厅，主打粤菜/点心，口碑稳定。",
+      "location": "越秀·中山六/光塔一带多店",
+      "rating": 4.4,
+      "price": "人均60-150元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "惠爱鸡",
+        "乳鸽",
+        "虾饺",
+        "小炒皇"
+      ],
+      "mainImage": "https://img2.baidu.com/it/u=3864422037,4176248336&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+      "gallery": [
+        "https://img0.baidu.com/it/u=226093626,893996306&fm=253&app=138&f=JPEG?w=500&h=659",
+        "https://img1.baidu.com/it/u=3357236689,2935648905&fm=253&app=138&f=JPEG?w=500&h=659",
+        "https://img1.baidu.com/it/u=2028608473,2347524195&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=889",
+        "https://img0.baidu.com/it/u=4231002023,164858716&fm=253&fmt=auto&app=120&f=JPEG?w=641&h=855"
+      ],
+      "detailedInfo": {
+        "history": "惠爱餐厅 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "明兴鱼蛋粉",
+      "type": "面食",
+      "description": "越秀区人气餐厅，主打面食，口碑稳定。",
+      "location": "中山六路",
+      "rating": 4.4,
+      "price": "人均10-20+",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "鱼蛋粉",
+        "煲仔饭"
+      ],
+      "mainImage": "https://img0.baidu.com/it/u=1764802763,2432692393&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+      "gallery": [
+        "https://qcloud.dpfile.com/pc/z5JFYifot4bHdnAhK9vOnhWe1Y2c2DehV98fov-lyfcjdJuXILC38qEdsh56E0e4.jpg",
+        "https://img2.baidu.com/it/u=3958338256,1708489037&fm=253&app=138&f=JPEG?w=500&h=659",
+        "https://img2.baidu.com/it/u=2449979079,4118688680&fm=253&app=138&f=JPEG?w=500&h=666",
+        "https://img0.baidu.com/it/u=4049603607,3132917350&fm=253&app=138&f=JPEG?w=475&h=633",
+        "https://img1.baidu.com/it/u=1373338609,3986411703&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "明兴鱼蛋粉 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "荣生集北水蛇粥",
+      "type": "粥品",
+      "description": "越秀区人气餐厅，主打粤菜/点心，口碑稳定。",
+      "location": "教育路/光孝路一带",
+      "rating": 4.4,
+      "price": "人均70+",
+      "hours": "11:00–21:00",
+      "phone": "暂无",
+      "specialties": [
+        "北江水蛇粥",
+        "各类海鲜粥",
+        "广式粥品"
+      ],
+      "mainImage": "https://qcloud.dpfile.com/pc/qY5mIXkglJTSBOql5vsLtsAKDNhrZkBjL7APm4Oz4-si8AgtQV76cj-_sKD6JTPFjoJrvItByyS4HHaWdXyO_DrXIaWutJls2xCVbatkhjUNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg",
+      "gallery": [
+        "https://img2.baidu.com/it/u=3074572477,2660129027&fm=253&fmt=auto&app=138&f=JPEG?w=568&h=384",
+        "https://img0.baidu.com/it/u=2623391965,4212249952&fm=253&fmt=auto&app=138&f=JPEG?w=480&h=480",
+        "https://img1.baidu.com/it/u=1997591822,2229842987&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=557",
+        "https://qcloud.dpfile.com/pc/K0p8XaR13oTaHdOkVaaCFy_SbKMe6ygKdI1S2rfz4TjYCMX9GcqM8WqJs9_-0BbpTYGVDmosZWTLal1WbWRW3A.jpg"
+      ],
+      "detailedInfo": {
+        "history": "荣生集北水蛇粥 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "惠西小食店",
+      "type": "粤菜/点心",
+      "description": "越秀区人气餐厅，主打粤菜/点心，口碑稳定。",
+      "location": "中山六路",
+      "rating": 4.4,
+      "price": "人均16+",
+      "hours": "06:30 起",
+      "phone": "暂无",
+      "specialties": [
+        "云吞面",
+        "粽子"
+      ],
+      "mainImage": "https://img0.baidu.com/it/u=3274443673,686479130&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+      "gallery": [
+        "https://img0.baidu.com/it/u=2369389632,1039394966&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://img2.baidu.com/it/u=3990453190,3376307394&fm=253&app=138&f=JPEG?w=666&h=500",
+        "https://img0.baidu.com/it/u=4059501596,3590287489&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fci.xiaohongshu.com%2F36b22c43-15e6-39f8-abcf-379c29ecd5b0%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fci.xiaohongshu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1760849326&t=0c8264a80f0e3473c3157cbda7babcb2"
+      ],
+      "detailedInfo": {
+        "history": "惠西小食店 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "彩东美食",
+      "type": "小炒",
+      "description": "越秀区人气餐厅，主打粤菜/点心，口碑稳定。",
+      "location": "越秀南路",
+      "rating": 4.4,
+      "price": "街坊价",
+      "hours": "07:30–03:00（通宵至凌晨）",
+      "phone": "暂无",
+      "specialties": [
+        "宵夜类小炒",
+        "快餐"
+      ],
+      "mainImage": "https://img0.baidu.com/it/u=765115262,308365009&fm=253&app=138&f=JPEG?w=500&h=667",
+      "gallery": [
+        "https://img1.baidu.com/it/u=950691506,262108772&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img2.baidu.com/it/u=1823958175,927315704&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img1.baidu.com/it/u=3156943804,2022245918&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img2.baidu.com/it/u=581354494,2787810042&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img2.baidu.com/it/u=3397459134,1630582193&fm=253&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "彩东美食 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "name": "同乐居",
+      "type": "粤菜/点心",
+      "description": "越秀区人气餐厅，主打粤菜/点心，口碑稳定。",
+      "location": "惠福西路",
+      "rating": 4.4,
+      "price": "人均59+",
+      "hours": "11:00–14:30，17:00–22:00",
+      "phone": "暂无",
+      "specialties": [
+        "酱油鱼皮",
+        "掌中宝",
+        "炒牛河"
+      ],
+      "mainImage": "https://img2.baidu.com/it/u=1327896583,1560296030&fm=253&app=138&f=JPEG?w=800&h=1067",
+      "gallery": [
+        "https://img2.baidu.com/it/u=4125848559,1180829589&fm=253&app=138&f=JPEG?w=800&h=1067",
+        "https://img1.baidu.com/it/u=1899173865,2464265604&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+        "https://img1.baidu.com/it/u=2683921721,1296454492&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=375",
+        "https://img0.baidu.com/it/u=931890107,1686863006&fm=253&app=138&f=JPEG?w=500&h=500"
+      ],
+      "detailedInfo": {
+        "history": "同乐居 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "name": "琪琪小食店",
+      "type": "小炒",
+      "description": "30年老字号煲仔饭专门店，以豆豉排骨饭闻名，锅巴香脆，搭配自制辣椒酱，性价比极高，深受街坊喜爱。",
+      "location": "海珠中路",
+      "rating": 4.5,
+      "price": "人均20-30元",
+      "hours": "10:00-21:30",
+      "phone": "待查",
+      "specialties": [
+        "肠粉",
+        "腊味煲仔饭",
+        "香菇滑鸡煲仔饭",
+        "菜干炖猪骨汤"
+      ],
+      "mainImage": "https://qcloud.dpfile.com/pc/Zp1WHTL7M4Dvf8fKUsuZYVufm6P8apom653gJgcvettWpHUTjawvZAxm1Q1IsU7K.jpg",
+      "gallery": [
+        "https://qcloud.dpfile.com/pc/MK62wtGbQR0hUtv6b0stWCnt2ZQKKbdW7bCAKTt4N86q06IZlcKLK4NRgJkt3syKAsjew4BovU6axjPJM2w4nrGzA5roSQdOIZBdpbY56uQFaWqA0j7ta3_A22czT6CvR2wBLHpNWleM8u_F-3h0csaq1-bq6jn4ci07g10pOcR8r-pAC7Z8Me1lmvv-C1rCtuD2Ttc33o2oiy9iGY5KAqS8eU1WRISyVZ5oaCuzdo9GQLj2BUn2Fvl5kTJ57OrBF71mYN0a8QgyjWdwktTu-XUme6680cLN6IgLxyNjDF6-p5cP5UlHCEtd4gfc59LPZsWnu5jiC5MnALJihFG9hbXWGD9B6Os1I8v4zL0METfWQfyt_ZD8qWlxkfjTYsACk40vYVDsRKhgUWVQjIn6esDABhwrS-CxkPoKpBkUoqyaSCkVu7mImHtzM5Dry7r9RhsYw9Ftu7XsvXkViSjE50TQYIZvwkbx6idFLLxaUz6JiYvSzfpPA4VwLs-u0lYb_46oHfRh-BjQBDlZ9RbrmBXKu1WReg0J_KxhqxBukUDTtMzAm9Ao1OzMu6UzwwhDcnevFMP8gjC5vn_-sW8cW1E6ydPph68pn_IBwOnU5FwwXQKcVMr19MQGdAcvTpBH.jpg",
+        "https://img2.baidu.com/it/u=2248943615,3184119605&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img.meituan.net/leadinimg/6dca2a654e8d27a7a2fea9f56f3f412c251610.webp%40750w_975h_1e_1c_1l_75q%7Cwatermark%3D1%26%26object%3DL3NjYXJsZXR0LzM0ODFhYzlkYjRkMGViYmNhZGIzNzU4YmE4YmJjODFhNDM4Mi5wbmc%3D%26p%3D9%26x%3D5%26y%3D45%7Cwatermark%3D2%26%26text%3D576O5Li95qKm5oOz%26size%3D32%26x%3D14%26y%3D16%26type%3DUEZC%26p%3D9%7Cformat%3Djpeg",
+        "https://img0.baidu.com/it/u=2647567251,3785617587&fm=253&app=138&f=JPEG?w=667&h=500"
+      ],
+      "detailedInfo": {
+        "history": "同乐居 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "name": "银记肠粉店",
+      "type": "传统小吃/肠粉专门店",
+      "description": "广州最著名的肠粉老店之一，以皮薄馅多、酱油鲜美著称，是体验正宗广式肠粉的首选，常年排队。",
+      "location": "越秀区中山一路51号-1",
+      "rating": 4.5,
+      "price": "人均15-25元",
+      "hours": "06:30-14:00",
+      "phone": "020-37580876",
+      "specialties": [
+        "鲜虾肠粉",
+        "牛肉肠粉",
+        "韭黄肠粉",
+        "叉烧肠粉",
+        "白糖伦教糕"
+      ],
+      "mainImage": "https://qcloud.dpfile.com/pc/Gvwqdzh6P7LOesVSHwgPQPM6iKV7VECa25KfPA47bt8SGGlMSSgiAwikSXh28Nhx.jpg",
+      "gallery": [
+        "https://img1.baidu.com/it/u=73270201,1687510144&fm=253&app=138&f=JPEG?w=500&h=875",
+        "https://img0.baidu.com/it/u=4106017648,3423157857&fm=253&app=138&f=JPEG?w=500&h=875",
+        "https://img1.baidu.com/it/u=1273117886,2935960900&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img1.baidu.com/it/u=3881287019,3882984726&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img0.baidu.com/it/u=3894914220,4210645500&fm=253&app=138&f=JPEG?w=500&h=889"
+      ],
+      "detailedInfo": {
+        "history": "同乐居 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "name": "玫瑰甜品（文明路总店）",
+      "type": "传统糖水/甜品",
+      "description": "文明路糖水街的老字号代表，传承传统广式糖水制作工艺，四季皆有时令糖水，是老广的童年回忆。",
+      "location": "越秀区文明路160号",
+      "rating": 4.4,
+      "price": "人均10-20元",
+      "hours": "11:00-23:00",
+      "phone": "待查",
+      "specialties": [
+        "红豆沙",
+        "绿豆沙",
+        "芝麻糊",
+        "双皮奶",
+        "杨枝甘露"
+      ],
+      "mainImage": "https://qcloud.dpfile.com/pc/fUXLZghxgziV-8Vg7z3ki05h_102HkaRAliIpWYvS3JaPK-u1xGv2EDOXo9h_4jRNZvK3RMEnSZusP-oHmeixOpEuctC7NDQ04iV_zcg7BUYPeq-iX-oD-RLc_uA0GHhp6cjSpPcu-UE8TQHZIi94A.jpg",
+      "gallery": [
+        "https://img2.baidu.com/it/u=3853099430,438658149&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img0.baidu.com/it/u=1712828656,2438968216&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://qcloud.dpfile.com/pc/7Q3ipniTOiy9EGyWzJtGmIrcwzT1PvvvkWiGwzH7neS-yaTludb9bS1xg1tD4Kys.jpg",
+        "https://qcloud.dpfile.com/pc/LQYhz95qQxcuD6pUcOuSVt-1TMzcf_DEDGyeDB8Dc_00xRcoWiXXk68eua3k51OgNZvK3RMEnSZusP-oHmeixOpEuctC7NDQ04iV_zcg7BUYPeq-iX-oD-RLc_uA0GHhp6cjSpPcu-UE8TQHZIi94A.jpg"
+      ],
+      "detailedInfo": {
+        "history": "同乐居 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    }
+  ],
+  "tianhe": [
+    {
+      "id": 16,
+      "name": "江 Jiang by Chef Fei",
+      "type": "高端粤菜/米其林二星",
+      "description": "广州首家米其林二星餐厅（2019年获得），由辉师傅主理，位于文华东方酒店，以现代手法演绎传统粤菜精髓。",
+      "location": "天河区天河路389号文华东方酒店3层",
+      "rating": 4.9,
+      "price": "人均1000-1500元",
+      "hours": "午餐 周一－五 11:30－14:30；周末 10:00－15:00；晚餐 17:30－22:00",
+      "phone": "020-38088885",
+      "specialties": [
+        "点心合市",
+        "文昌鸡",
+        "脆皮鸡", 
+        "创意粤菜与时令菜单"
+      ],
+      "mainImage": "https://img0.baidu.com/it/u=1699908871,1472787110&fm=253&app=138&f=JPEG?w=500&h=666",
+      "gallery": [
+        "https://img1.baidu.com/it/u=1476417844,1021128216&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://img2.baidu.com/it/u=4034662229,44220057&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://img2.baidu.com/it/u=58662700,2555456520&fm=253&app=138&f=JPEG?w=500&h=511",
+        "https://img2.baidu.com/it/u=202482004,2445359558&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+        "https://img0.baidu.com/it/u=1659006610,1507855917&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+        "https://img1.baidu.com/it/u=1599338094,715221121&fm=253&app=138&f=JPEG?w=500&h=666"
+      ],
+      "detailedInfo": {
+        "history": "江 Jiang by Chef Fei 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "name": "炳胜品味（天河）",
+      "type": "粤菜/海鲜",
+      "description": "知名粤菜连锁品牌，以新鲜海鲜和传统粤菜制作见长，在广州有多家分店。",
+      "location": "天河区天河东路168号",
+      "rating": 4.6,
+      "price": "人均120-200元",
+      "hours": "11:00-22:00",
+      "phone": "020-87518683",
+      "specialties": [
+        "菠萝包",
+        "炭烧类",
+        "经典粤菜"
+      ],
+      "mainImage": "https://img1.baidu.com/it/u=134094102,2011343863&fm=253&fmt=auto&app=138&f=PNG?w=681&h=500",
+      "gallery": [
+        "https://gips0.baidu.com/it/u=2260659385,3274884966&fm=3074&app=3074&f=JPEG",
+        "https://img1.baidu.com/it/u=1494054912,2225185078&fm=253&app=138&f=JPEG?w=500&h=860",
+        "https://img2.baidu.com/it/u=707198014,3598567770&fm=253&app=138&f=JPEG?w=707&h=500",
+        "https://img2.baidu.com/it/u=197291027,2124591469&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+        "https://img0.baidu.com/it/u=927487442,2701610404&fm=253&app=138&f=PNG?w=667&h=500",
+        "https://img0.baidu.com/it/u=1942397183,669633917&fm=253&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "炳胜品味（天河） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "name": "大鸽饭（天河）",
+      "type": "粤菜",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "天河区",
+      "rating": 4.5,
+      "price": "人均80-200元",
+      "hours": "11:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://img2.baidu.com/it/u=2145889696,1313249780&fm=253&app=138&f=JPEG?w=500&h=667",
+      "gallery": [
+        "https://qcloud.dpfile.com/pc/TcUS-OPIAjQl-by4-z7HhskkuczXtoKNapkOELQytoyetTJPCukyTGns-vo8-MYZ.jpg",
+        "https://img0.baidu.com/it/u=78327063,2427204903&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://qcloud.dpfile.com/pc/tRpNbjG54n1-l2Fzrk5cqEZgqbsNy0705siU3mAkXce3OVoihIkmurvV3052Y9Xt.jpg",
+        "https://qcloud.dpfile.com/pc/9anNPSEEnEe29Sd6o-J90S3W6oOsgondH1sfFhSjZ9zuCvjEkdZxjKI_hzpUwDOs.jpg",
+        "https://img0.baidu.com/it/u=2238945407,2991726000&fm=253&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "大鸽饭（天河） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "name": "稻香酒家（天河城）",
+      "type": "粤菜",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "天河区",
+      "rating": 4.5,
+      "price": "人均60-100元",
+      "hours": "08:00 起，17:30–22:00",
+      "phone": "暂无",
+      "specialties": [
+        "港式茶点",
+        "核桃包",
+        "柠蜜炸蛋散"
+      ],
+      "mainImage": "https://img2.baidu.com/it/u=3065403557,32446793&fm=253&app=138&f=JPEG?w=500&h=667",
+      "gallery": [
+        "https://qcloud.dpfile.com/pc/dqAwdm6g5N2CxMqPBUg4vqgESey-gZ_KnxmNjON_jG94wQog05avdTDtdGI0o4RV.jpg",
+        "https://img0.baidu.com/it/u=410259509,1054131418&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667",
+        "https://img.meituan.net/leadinimg/ec479d003615bf4218f2d2c84d4143b8175040.webp%40watermark%3D0",
+        "https://img1.baidu.com/it/u=2724205839,3251659946&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://img.meituan.net/leadinimg/d828b2cea05c1de68d914b76af8321ca86424.webp%40watermark%3D0"
+      ],
+      "detailedInfo": {
+        "history": "稻香酒家（天河城） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "name": "粤点粤掂（天河）",
+      "type": "粤菜",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "体育西·六运一街",
+      "rating": 4.5,
+      "price": "人均50+",
+      "hours": "08:00–22:00",
+      "phone": "暂无",
+      "specialties": [
+        "早茶点心",
+        "拉肠",
+        "蛋挞"
+      ],
+      "mainImage": "https://gips2.baidu.com/it/u=644224464,1103751572&fm=3074&app=3074&f=JPEG",
+      "gallery": [
+        "https://miaobi-lite.bj.bcebos.com/miaobi/5mao/b%27LV8xNzMyOTQxNjc5LjI4MjgzNw%3D%3D%27/0.png",
+        "https://img0.baidu.com/it/u=229071323,3644248732&fm=253&app=138&f=JPEG?w=500&h=662",
+        "https://gips1.baidu.com/it/u=2031960059,2617301459&fm=3074&app=3074&f=JPEG",
+        "https://qcloud.dpfile.com/pc/I54M2mdmLpbCr7RztCE-b2gHWcUNbDVaUXis-GqSQcmM4vXvPU2M4-O9fulXavWg.jpg",
+        "https://img0.baidu.com/it/u=975381501,900688973&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "粤点粤掂（天河） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "name": "禄运茶居（天河）",
+      "type": "粤菜",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "体育西店",
+      "rating": 4.5,
+      "price": "人均70-80",
+      "hours": "08:00–21:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺皇",
+        "金莎脆皮红米肠",
+        "蒸凤爪"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "禄运茶居（天河） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "name": "He Yuan 和苑（花城汇）",
+      "type": "粤菜/点心",
+      "description": "天河区人气餐厅，主打粤菜/点心，口碑稳定。",
+      "location": "天河区花城大道68号花城汇3层",
+      "rating": 4.5,
+      "price": "人均170-260元",
+      "hours": "10:00–22:00",
+      "phone": "暂无",
+      "specialties": [
+        "广府经典菜肴",
+        "早茶"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "He Yuan 和苑（花城汇） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "name": "翠园茶楼（天河城）",
+      "type": "粤菜",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "天河区",
+      "rating": 4.5,
+      "price": "人均80-200元",
+      "hours": "11:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://img0.baidu.com/it/u=3278842009,502920540&fm=253&fmt=auto&app=138&f=JPEG?w=722&h=500",
+      "gallery": [
+        "https://img1.baidu.com/it/u=3417066057,2421101676&fm=253&app=138&f=JPEG?w=500&h=641",
+        "https://img0.baidu.com/it/u=1017779387,1919150479&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667",
+        "https://img1.baidu.com/it/u=1866940083,2138143326&fm=253&app=138&f=JPEG?w=500&h=500",
+        "https://qcloud.dpfile.com/pc/V4Tf4UKYLZoLKMInONILHAPrG19rH6LPDs89-HeQsj6Bfe-4FQWzHbF75cwE-Xsc.jpg",
+        "https://gips3.baidu.com/it/u=401012193,2953760188&fm=3074&app=3074&f=JPEG"
+      ],
+      "detailedInfo": {
+        "history": "翠园茶楼（天河城） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "name": "御宝轩（天河）",
+      "type": "粤菜",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "Imperial Treasure · 天汇 IGC",
+      "rating": 4.5,
+      "price": "中高端",
+      "hours": "11:00–14:30、17:30–22:00",
+      "phone": "暂无",
+      "specialties": [
+        "蜜汁叉烧酥",
+        "鲜虾饺",
+        "流沙包"
+      ],
+      "mainImage": "https://img1.baidu.com/it/u=1935631351,945586789&fm=253&fmt=auto&app=138&f=JPEG?w=641&h=427",
+      "gallery": [
+        "https://img2.baidu.com/it/u=3927183702,3527123776&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+        "https://img0.baidu.com/it/u=2616519819,385974977&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+        "https://img0.baidu.com/it/u=938410711,2229842418&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+        "https://img0.baidu.com/it/u=2165724525,475868956&fm=253&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "御宝轩（天河） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "name": "Social & Co",
+      "type": "粤菜",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "天河区",
+      "rating": 4.5,
+      "price": "人均80-200元",
+      "hours": "11:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://img2.baidu.com/it/u=2847949698,2031542728&fm=253&app=138&f=JPEG?w=667&h=500",
+      "gallery": [
+        "https://img2.baidu.com/it/u=3779972013,1805430328&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=653",
+        "https://img2.baidu.com/it/u=3193403420,3514117254&fm=253&app=138&f=JPEG?w=500&h=653",
+        "https://img0.baidu.com/it/u=3172640446,3407258973&fm=253&app=138&f=JPEG?w=500&h=653",
+        "https://img1.baidu.com/it/u=610694563,1056379471&fm=253&app=138&f=JPEG?w=500&h=661"
+      ],
+      "detailedInfo": {
+        "history": "Social & Co 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "name": "mango tree 芒果树",
+      "type": "中高端泰菜",
+      "description": "国际知名泰餐品牌，1994年创立于曼谷，曾获泰国最佳餐厅奖项。广州店位于K11，以热带雨林为主题设计，提供正宗四府泰菜。",
+      "location": "天河区珠江东路6号K11购物艺术中心7F",
+      "rating": 4.5,
+      "price": "午市120-150元，晚市200-250元",
+      "hours": "11:30—14:30 / 17:30—22:00",
+      "phone": "020-88835313",
+      "specialties": [
+        "冬荫功汤",
+        "黄咖喱炒肉蟹",
+        "炭烧猪颈肉配蔬菜沙律",
+        "大头虾粉丝煲",
+        "香芒糯米饭"
+      ],
+      "mainImage": "https://wx1.sinaimg.cn/mw690/722e113dgy1hydcydbo5jj20u0140136.jpg",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "mango tree 芒果树 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "name": "Cages Guangzhou",
+      "type": "美式运动餐厅",
+      "description": "亚洲大型运动主题餐厅酒吧，上海品牌在广州的分店。结合体育、游戏、美食和娱乐，拥有50多种游戏设施和棒球训练场。",
+      "location": "体育西/珠江饮博馆",
+      "rating": 4.5,
+      "price": "人均150-250元",
+      "hours": "周一-四 11:00-23:00；周五-六 11:00-01:00",
+      "phone": "待查",
+      "specialties": [
+        "美式小食",
+        "汉堡",
+        "披萨",
+        "运动主题套餐",
+        "精酿啤酒"
+      ]
+,
+      "mainImage": "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "Cages Guangzhou 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "name": "Studio C 咖啡厅",
+      "type": "咖啡厅",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "天河区",
+      "rating": 4.5,
+      "price": "人均50+",
+      "hours": "10:00-19:00",
+      "phone": "暂无",
+      "specialties": [
+        "咖啡",
+        "甜点",
+        "手冲"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "Studio C 咖啡厅 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "name": "愉粤轩（富力丽思卡尔顿）",
+      "type": "粤菜",
+      "description": "天河区人气餐厅，主打粤菜，口碑稳定。",
+      "location": "天河区",
+      "rating": 4.5,
+      "price": "人均80-200元",
+      "hours": "11:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "愉粤轩（富力丽思卡尔顿） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    }
+  ],
+  "liwan": [
+    {
+      "id": 31,
+      "name": "泮溪酒家",
+      "type": "粤菜/园林酒家",
+      "description": "创建于1947年的老字号园林酒家，以岭南庭园风格和传统粤菜著称，环境优雅，是品尝正宗广府菜的经典选择。",
+      "location": "荔湾区龙津西路151号",
+      "rating": 4.5,
+      "price": "人均100-200元",
+      "hours": "10:00-22:00",
+      "phone": "020-81834350",
+      "specialties": [
+        "白切鸡",
+        "蜜汁叉烧",
+        "广式点心",
+        "老火靓汤"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "泮溪酒家 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "name": "陈添记",
+      "type": "小吃/鱼皮/粥粉面",
+      "description": "创立于1850年的百年老字号，以爽鱼皮闻名全城，坚持传统手工制作，选用新鲜鲮鱼皮，是广州最著名的街头小吃店。",
+      "location": "荔湾区宝华路十五甫三巷2号之3",
+      "rating": 4.6,
+      "price": "人均15-30元",
+      "hours": "07:00-18:00",
+      "phone": "待查",
+      "specialties": [
+        "祖传爽鱼皮",
+        "传统艇仔粥",
+        "豉油王蒸猪肠粉",
+        "无骨鸡脚",
+        "酱萝卜"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "陈添记 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "name": "顺记冰室",
+      "type": "冰室/甜品",
+      "description": "宝华路传统港式冰室，保留经典冰室装潢和制作工艺，奶茶香浓，双皮奶嫩滑，充满怀旧情怀。",
+      "location": "荔湾区宝华路83号附近",
+      "rating": 4.5,
+      "price": "人均15-35元",
+      "hours": "10:00-22:00",
+      "phone": "待查",
+      "specialties": [
+        "港式奶茶",
+        "双皮奶",
+        "红豆冰",
+        "菠萝包",
+        "咖喱鱼蛋"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "顺记冰室 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "name": "向群饭店（龙津/泮塘）",
+      "type": "西关菜/粤菜",
+      "description": "荔湾区人气餐厅，主打西关菜/粤菜，口碑稳定。",
+      "location": "荔湾区泮塘路 仁威庙对面",
+      "rating": 4.5,
+      "price": "人均30-120元",
+      "hours": "11:00-14:30,17:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "向群饭店（龙津/泮塘） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "name": "文记壹心鸡",
+      "type": "粤菜/清平鸡",
+      "description": "荔湾区人气餐厅，主打粤菜/清平鸡，口碑稳定。",
+      "location": "荔湾区宝华路76号旋源桥10号",
+      "rating": 4.6,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "+86 20 8172 8887",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "文记壹心鸡 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "name": "银记肠粉（上九路）",
+      "type": "小吃/肠粉",
+      "description": "荔湾区人气餐厅，主打小吃/肠粉，口碑稳定。",
+      "location": "荔湾区上九路79号",
+      "rating": 4.4,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "020-81713013",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "银记肠粉（上九路） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "name": "德昌咸煎饼（伍湛记）",
+      "type": "小吃/咸煎饼",
+      "description": "荔湾区人气餐厅，主打小吃/咸煎饼，口碑稳定。",
+      "location": "荔湾区龙津东路871号",
+      "rating": 4.3,
+      "price": "人均10-20元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "德昌咸煎饼（伍湛记） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "name": "荔湾艇仔粥",
+      "type": "小吃/艇仔粥",
+      "description": "荔湾区人气餐厅，主打小吃/艇仔粥，口碑稳定。",
+      "location": "荔湾区",
+      "rating": 4.3,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "荔湾艇仔粥 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "name": "莲香楼",
+      "type": "粤菜/小吃",
+      "description": "荔湾区人气餐厅，主打粤菜/小吃，口碑稳定。",
+      "location": "荔湾区",
+      "rating": 4.5,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "莲香楼 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "name": "宝华面店",
+      "type": "小吃/云吞面",
+      "description": "荔湾区人气餐厅，主打小吃/云吞面，口碑稳定。",
+      "location": "荔湾区宝华路",
+      "rating": 4.4,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "宝华面店 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "name": "伍湛记粥品",
+      "type": "粤菜/小吃",
+      "description": "荔湾区人气餐厅，主打粤菜/小吃，口碑稳定。",
+      "location": "荔湾区",
+      "rating": 4.5,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "伍湛记粥品 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "name": "西关人家",
+      "type": "粤菜/小吃",
+      "description": "荔湾区人气餐厅，主打粤菜/小吃，口碑稳定。",
+      "location": "荔湾区",
+      "rating": 4.5,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "西关人家 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "name": "广州酒家（西关店）",
+      "type": "粤菜/小吃",
+      "description": "荔湾区人气餐厅，主打粤菜/小吃，口碑稳定。",
+      "location": "荔湾区",
+      "rating": 4.5,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "广州酒家（西关店） 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "name": "西关濑粉",
+      "type": "粤菜/小吃",
+      "description": "荔湾区人气餐厅，主打粤菜/小吃，口碑稳定。",
+      "location": "荔湾区",
+      "rating": 4.5,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "西关濑粉 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "name": "南信牛奶甜品专家",
+      "type": "甜品/双皮奶",
+      "description": "荔湾区人气餐厅，主打甜品/双皮奶，口碑稳定。",
+      "location": "荔湾区第十甫路99号",
+      "rating": 4.5,
+      "price": "人均30-120元",
+      "hours": "10:00-22:00",
+      "phone": "暂无",
+      "specialties": [
+        "虾饺",
+        "烧卖",
+        "白切鸡"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "南信牛奶甜品专家 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "name": "超记煲仔饭",
+      "type": "传统煲仔饭",
+      "description": "30年老字号煲仔饭专门店，以豆豉排骨饭闻名，锅巴香脆，搭配自制辣椒酱，性价比极高，深受街坊喜爱。",
+      "location": "荔湾区龙津东路723号",
+      "rating": 4.5,
+      "price": "人均20-30元",
+      "hours": "10:00-21:30",
+      "phone": "待查",
+      "specialties": [
+        "豆豉排骨煲仔饭",
+        "腊味煲仔饭",
+        "香菇滑鸡煲仔饭",
+        "菜干炖猪骨汤",
+        "招牌辣椒酱"
+      ],
+      "mainImage": "https://img0.baidu.com/it/u=163660181,382840605&fm=253&app=138&f=JPEG?w=500&h=667",
+      "gallery": [
+        "https://img0.baidu.com/it/u=1728598737,3845051208&fm=253&app=138&f=JPEG?w=500&h=667",
+        "https://img0.baidu.com/it/u=3696877242,1127948968&fm=253&app=138&f=JPEG?w=667&h=500",
+        "https://img2.baidu.com/it/u=3763156383,2710055600&fm=253&app=138&f=JPEG?w=1082&h=500",
+        "https://img1.baidu.com/it/u=4206031914,2457760231&fm=253&app=138&f=JPEG?w=500&h=667"
+      ],
+      "detailedInfo": {
+        "history": "同乐居 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "name": "宝华面店",
+      "type": "传统面食/云吞面",
+      "description": "上下九老字号面店，以传统云吞面和牛腩面著称，汤底清香，面条爽滑，保持传统广式面食风味。",
+      "location": "荔湾区宝华路",
+      "rating": 4.4,
+      "price": "人均15-30元",
+      "hours": "07:00-21:00",
+      "phone": "待查",
+      "specialties": [
+        "鲜虾云吞面",
+        "牛腩面",
+        "猪肝面",
+        "净云吞"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "南信牛奶甜品专家 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "name": "珍珍小食店",
+      "type": "传统粉面/街坊食堂",
+      "description": "近30年老字号小店，只有老广和懂吃的人才会来。牛三星汤面是招牌，食材新鲜，汤底清甜无腥味。",
+      "location": "荔湾区多宝路周边",
+      "rating": 4.5,
+      "price": "人均20-35元",
+      "hours": "06:30-20:00",
+      "phone": "待查",
+      "specialties": [
+        "牛三星面",
+        "猪杂汤面",
+        "鱼蛋河粉",
+        "净汤面"
+      ],
+      "mainImage": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&h=400&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571847140471-1d7766e825ea?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1571167935207-4b9c3c1b1d33?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=600&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1563379091364-02f0a69b35b0?w=600&h=400&fit=crop"
+      ],
+      "detailedInfo": {
+        "history": "南信牛奶甜品专家 为本地口碑餐厅，深受食客欢迎。",
+        "environment": "环境整洁舒适，服务高效。",
+        "recommendations": [
+          "招牌菜值得一试",
+          "高峰期建议提前到店或预约"
+        ],
+        "tips": [
+          "热门时段需排队",
+          "可乘地铁或公交前往"
+        ]
+      }
+    }
+  ]
+}
