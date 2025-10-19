@@ -29,6 +29,18 @@
         <button class="district-btn" data-district="yuexiu">越秀区</button>
         <button class="district-btn" data-district="tianhe">天河区</button>
         <button class="district-btn" data-district="liwan">荔湾区</button>
+
+        <!-- 新增：只看推荐 -->
+        <label style="margin-left:auto;display:flex;align-items:center;gap:6px;">
+          <input type="checkbox" id="toggleRecommended"> 只看推荐
+        </label>
+
+        <!-- 按钮 UI -->
+        <div style="display:flex; gap:8px; align-items:center; margin:8px 0;">
+          <button id="btnPrecache">缓存当前资源</button>
+          <button id="btnClearCache">清空缓存</button>
+          <span id="cacheStatus" style="font-size:12px;color:#666;"></span>
+        </div>
       </div>
 
       <section id="food-list">
@@ -90,5 +102,48 @@
     </div>
 
     <script src="./js/app.js" defer></script>
+    <script>
+      // 注册 Service Worker
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', async () => {
+          try {
+            const reg = await navigator.serviceWorker.register('./sw.js', { scope: './' });
+            console.log('SW registered', reg);
+
+            // 监听来自 SW 的反馈
+            navigator.serviceWorker.addEventListener('message', (evt) => {
+              const s = document.getElementById('cacheStatus');
+              if (evt.data?.type === 'PRECACHE_DONE') {
+                s.textContent = `已缓存（版本 ${evt.data.version}）`;
+              }
+              if (evt.data?.type === 'CLEAR_DONE') {
+                s.textContent = '缓存已清空';
+              }
+            });
+
+            const btnPre = document.getElementById('btnPrecache');
+            const btnClr = document.getElementById('btnClearCache');
+            const status = document.getElementById('cacheStatus');
+
+            btnPre?.addEventListener('click', async () => {
+              const sw = await navigator.serviceWorker.ready;
+              sw.active?.postMessage({ type: 'PRECACHE_NOW' });
+              status.textContent = '正在缓存...';
+            });
+
+            btnClr?.addEventListener('click', async () => {
+              const sw = await navigator.serviceWorker.ready;
+              sw.active?.postMessage({ type: 'CLEAR_CACHE' });
+              status.textContent = '正在清空缓存...';
+            });
+
+          } catch (e) {
+            console.warn('SW register failed', e);
+          }
+        });
+      } else {
+        console.warn('Service Worker not supported');
+      }
+    </script>
   </body>
 </html>
